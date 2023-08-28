@@ -1,0 +1,2 @@
+# OBJETIVO DO PROJETO
+O objetivo é criar um sistema de streaming de eventos em que as atividades do site (como a criação de um novo pedido) sejam enviadas como eventos para um tópico no Kafka e, em seguida, consumidas por um ou mais consumidores.
